@@ -1,0 +1,8 @@
+{
+    "title": "How to learn SQL",
+    "content": "Structured Query Language (SQL) (pronounced S-Q-L; less commonly sequel) is a domain-specific language used to manage data, especially in a relational database management system (RDBMS). It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables. Introduced in the 1970s, SQL offered two main advantages over older read-write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, i.e., with or without an index. Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements, which may be informally classed as sublanguages, commonly: Data query Language (DQL), Data Definition Language (DDL), Data Control Language (DCL), and Data Manipulation Language (DML).",
+    "author": "Aditya",
+    "metadesc" : "Learn Sql in few minutes. I will teach you Sql",
+    "slug": "how-to-learn-sql"
+  }
+  
